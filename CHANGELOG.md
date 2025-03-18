@@ -1,9 +1,17 @@
 </details>
 
+**<details><summary>v1.1.2</summary>**
+
+* Compatibilité de mod à jour (MoreUpgrades 1.2.2)
+
+</details>
+
+
+</details>
+
 **<details><summary>v1.1.1</summary>**
 
 * Compatibilité de mod à jour (MoreUpgrades 1.2.0)
-* Note : MoreUpgrades 1.2.1 et 1.2.2 sont totalement bugués, restez en 1.2.0 en attendant la 1.2.3 ou +.
 * Ajout de mod (pré-configuré en français) qui traduit le peu de mots et phrases restants (principalement le Texte-à-parole, mais pas tout à 100%, et les messages d'abandon dans le camion) que mon mod ne peut traduire (DestructionTextReplacer de REPOknorton)
 
 </details>
