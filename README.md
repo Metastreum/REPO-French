@@ -1,4 +1,4 @@
-# REPO French 1.1.5
+# REPO French 1.1.6
 Un mod de R.E.P.O. qui traduit le jeu en français. (99,9% des mots et phrases du jeu ont été traduits !)
 
 ## 📜 Description :
