@@ -1,5 +1,23 @@
 </details>
 
+**<details><summary>v1.1.5</summary>**
+
+* Compatibilité de mod à jour (MoreUpgrades 1.3.1+)
+
+</details>
+
+
+</details>
+
+**<details><summary>v1.1.5</summary>**
+
+* Suppression des fichiers inutiles pour alléger le mod.
+
+</details>
+
+
+</details>
+
 **<details><summary>v1.1.3</summary>**
 
 * Une phrase d'astuce n'était pas traduite (oops !)
