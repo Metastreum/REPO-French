@@ -1,13 +1,14 @@
-# REPO French 1.1.2
-Un mod de R.E.P.O. qui traduit le jeu en français. (99,9% des mots et phrases du jeu ont été traduite !)
+# REPO French 1.1.3
+Un mod de R.E.P.O. qui traduit le jeu en français. (99,9% des mots et phrases du jeu ont été traduits !)
+
+Lien vers le GitHub : (https://github.com/Metastreum/REPO-French)
 
 ## 📜 Description :
 Basé sur le mod de [ jeremypnl7 ] qui a traduit R.E.P.O en espagnol. (https://thunderstore.io/c/repo/p/jeremypnl7/SukunaREPO_ESP/)
 
-Ce qu'il reste à traduire : (Je ne garantis pas d’y arriver, mais je vais essayer.)
+Ce qui reste à traduire : (En stand-by le temps de faire des tests, ça peut attendre, c'est pas hyper important.)
 
-- Le Texte-à-parole automatique qui se déclenche lorsqu'un joueur tient la potion d'amour.
-- Le Texte-à-parole automatique qui se déclenche lorsqu'un joueur est abandonné par ses coéquipiers.
+- Le Texte-à-parole automatique qui se déclenche dépendant des situations. (potion d'amour, abandonné par ses coéquipiers, etc...)
 
 ## 📥 Installation :
 ### 🔹 Méthode manuelle :
@@ -24,15 +25,15 @@ Utilise un gestionnaire de mods pour l'installer facilement :
 - r2modman: https://thunderstore.io/package/ebkr/r2modman/
 
 ## ✅ Compatible avec certains mods :
-🔹MoreUpgrades (1.2.2) par BULLETBOT (https://thunderstore.io/c/repo/p/BULLETBOT/MoreUpgrades/)
+🔹MoreUpgrades (1.3.0+) par BULLETBOT (https://thunderstore.io/c/repo/p/BULLETBOT/MoreUpgrades/)
 
-⚠️ Important : Pour que la traduction du mod MoreUpgrades fonctionne à 100 %, installez d'abord le mod REPO French, puis MoreUpgrades.
+⚠️ Important : Pour que la traduction du mod MoreUpgrades fonctionne à 100 %, vérifiez que le fichier "bulletbot.moreupgrades.cfg" situé dans REPO/BepInEx/config, contient la ligne "Display Total Value = false". (situé à la ligne 122)
 
-Si ce n'est pas le cas ou si vous avez un doute, ouvrez manuellement le fichier "bulletbot.moreupgrades.cfg" situé dans REPO/BepInEx/config, puis modifiez la ligne "Display Total Value = true" en "false" afin d'assurer le bon fonctionnement du mod.
+Si la valeur est à "true", modifiez la en "false" et enregistrez le fichier, afin d'assurer le bon fonctionnement du mod.
 
-🔹CustomColors (1.1.0) par x753_REPO (https://thunderstore.io/c/repo/p/x753_REPO/CustomColors/)
+🔹CustomColors (1.1.0+) par x753_REPO (https://thunderstore.io/c/repo/p/x753_REPO/CustomColors/)
 
-🔹LevelNumberUI (1.0.0) par ironbean (https://thunderstore.io/c/repo/p/ironbean/LevelNumberUI/)
+🔹LevelNumberUI (1.0.0+) par ironbean (https://thunderstore.io/c/repo/p/ironbean/LevelNumberUI/)
 
 ## 👥 Crédits :
 🌍 bbepis → Créateur de XUnity.AutoTranslator
@@ -40,5 +41,3 @@ Si ce n'est pas le cas ou si vous avez un doute, ouvrez manuellement le fichier 
 🌍 jeremypnl7 → Créateur de la majeure partie de la traduction, car j'ai tout retraduit en français, puis ajouté moi-même les textes et phrases manquants.
 
 🌍 REPOknorton → Le mod DestructionTextReplacer permet de traduire quelques mots et phrases, principalement les messages d'abandon au camion et quelques Texte-à-parole automatique, mais pas tout à 100% malheureusement...
-
-Donc, je verrai si j'arrive à traduire le reste du Texte-à-parole automatique, ce qui n'est pas pratique, en sachant que je n'ai pas encore pu tester cela.

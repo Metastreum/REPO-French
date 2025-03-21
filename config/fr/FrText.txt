@@ -264,6 +264,7 @@ $$TAXTAX$=$TAXETAXE
 Walk into the truck, grab (<u><b>MOUSE LEFT</b></u>) and hold the message area on the truck screen to send a message!=Entre dans le camion, saisis (<u><b>CLIC GAUCHE</b></u>) et maintiens la zone du message sur l'écran du camion pour envoyer un message !
 <b>FOCUS > </b>Get into the truck and send a message.=<b>OBJECTIF > </b>Monter dans le camion et envoyer un message.
 Enter the <b><u>truck</b></u> and send a message to your boss in order to leave a level.=Entre dans le <b><u>camion</b></u> et envoie un message à ton patron pour quitter le niveau.
+Press <b><u>T</b></u> to open the chat! It's fun!=Appuie sur <b><u>T</b></u> pour ouvrir le chat ! C'est amusant !
 Self Destruction=Autodestruction
 Is that really so?=C'est vraiment ce que tu veux ?
 Leave Lobby=Quitter le lobby

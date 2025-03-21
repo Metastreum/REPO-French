@@ -1,5 +1,15 @@
 </details>
 
+**<details><summary>v1.1.3</summary>**
+
+* Une phrase d'astuce n'était pas traduite (oops !)
+* Pour ce qui est du reste à traduire (le Texte-à-parole automatique dépendant des situations), je laisse en stand-by le temps de faire des tests, ça peut attendre, c'est pas hyper important.
+
+</details>
+
+
+</details>
+
 **<details><summary>v1.1.2</summary>**
 
 * Compatibilité de mod à jour (MoreUpgrades 1.2.2)
