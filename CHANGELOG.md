@@ -1,5 +1,23 @@
 </details>
 
+**<details><summary>v1.1.7</summary>**
+
+* Compatibilité de mod à jour (MoreUpgrades 1.4.4+)
+
+</details>
+
+
+</details>
+
+**<details><summary>v1.1.6</summary>**
+
+* Erreur dans le CHANGELOG.
+
+</details>
+
+
+</details>
+
 **<details><summary>v1.1.5</summary>**
 
 * Compatibilité de mod à jour (MoreUpgrades 1.3.1+)
@@ -9,7 +27,7 @@
 
 </details>
 
-**<details><summary>v1.1.5</summary>**
+**<details><summary>v1.1.4</summary>**
 
 * Suppression des fichiers inutiles pour alléger le mod.
 
