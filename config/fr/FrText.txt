@@ -202,6 +202,7 @@ TAXTAX$$$=TAXETAXE$
 Off=Éteint
 GAME OVER=GAME OVER
 DISPOSAL ARENA=ARÈNE DE DESTRUCTION
+Only one <b><u>Extraction Point</b></u> can be active at a time, find the current one using sour map!=Un seul <b><u>Point D'extraction</u></b> peut être actif à la fois, trouvez l'actuel en utilisant la carte !
 Use <u><b>WASD</b></u> to move.=Utilise <u><b>ZQSD</b></u> pour te déplacer.
 Use <u><b>WASD</b></u> on your keyboard until the progress bar is filled!=Utilise <u><b>ZQSD</b></u> sur ton clavier jusqu'à ce que la barre de progression soit remplie !
 <b>FOCUS > </b>Move to fill the progress bar=<b>OBJECTIF > </b>Se déplacer pour remplir la barre de progression.

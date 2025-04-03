@@ -1,5 +1,15 @@
 </details>
 
+**<details><summary>v1.1.8</summary>**
+
+* Compatibilité de mod à jour (MoreUpgrades 1.4.5+)
+* Une phrase d'astuce n'était pas traduite (oops !)
+
+</details>
+
+
+</details>
+
 **<details><summary>v1.1.7</summary>**
 
 * Compatibilité de mod à jour (MoreUpgrades 1.4.4+)

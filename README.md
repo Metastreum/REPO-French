@@ -1,5 +1,7 @@
-# REPO French 1.1.7
+# REPO French 1.1.8
 Un mod de R.E.P.O. qui traduit le jeu en français. (99,9% des mots et phrases du jeu ont été traduits !)
+
+Lien vers le GitHub : (https://github.com/Metastreum/REPO-French)
 
 ## 📜 Description :
 Basé sur le mod de [ jeremypnl7 ] qui a traduit R.E.P.O en espagnol. (https://thunderstore.io/c/repo/p/jeremypnl7/SukunaREPO_ESP/)
@@ -23,7 +25,7 @@ Utilise un gestionnaire de mods pour l'installer facilement :
 - r2modman: https://thunderstore.io/package/ebkr/r2modman/
 
 ## ✅ Compatible avec certains mods :
-🔹MoreUpgrades (1.4.4+) par BULLETBOT (https://thunderstore.io/c/repo/p/BULLETBOT/MoreUpgrades/)
+🔹MoreUpgrades (1.4.5+) par BULLETBOT (https://thunderstore.io/c/repo/p/BULLETBOT/MoreUpgrades/)
 
 ⚠️ Important : Pour que la traduction du mod MoreUpgrades fonctionne à 100 %, vérifiez que le fichier "bulletbot.moreupgrades.cfg" situé dans REPO/BepInEx/config, contient la ligne "Display Total Value = false". (situé à la ligne 312)
 
