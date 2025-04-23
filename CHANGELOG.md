@@ -1,5 +1,17 @@
 </details>
 
+**<details><summary>v1.1.9</summary>**
+
+* Ajout de mod (pré-configuré en français) qui permet de modifier le Texte-à-parole automatique lorsqu'un joueur porte la potion d'amour (LovePotion PhraseCustomizer de ArkanoidVFX)
+* Suppression des fichiers inutiles pour alléger le mod.
+* Compatibilité de mod à jour (MoreUpgrades 1.4.8+)
+* Une phrase d'astuce n'était pas traduite (oops !)
+
+</details>
+
+
+</details>
+
 **<details><summary>v1.1.8</summary>**
 
 * Compatibilité de mod à jour (MoreUpgrades 1.4.5+)
