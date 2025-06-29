@@ -1,12 +1,16 @@
-# REPO French 1.2.0
+# REPO French 1.2.2
 Un mod de R.E.P.O. qui traduit le jeu en français. (99,9% des mots et phrases du jeu ont été traduits !)
+
+Lien vers le GitHub : (https://github.com/Metastreum/REPO-French)
 
 ## 📜 Description :
 Basé sur le mod de [ jeremypnl7 ] qui a traduit R.E.P.O en espagnol. (https://thunderstore.io/c/repo/p/jeremypnl7/SukunaREPO_ESP/)
 
-Ce qui reste à traduire : (En stand-by le temps de faire des tests, ça peut attendre, c'est pas hyper important.)
+Ce qui reste à traduire : (En stand-by, ça peut attendre, c'est pas hyper important.)
 
-- Le Texte-à-parole automatique qui se déclenche lorsque un joueur est abandonné par ses coéquipiers.
+- Le Texte-à-parole automatique qui se déclenche lorsque un joueur est abandonné par ses coéquipiers. (Partiellement complétée)
+- Quelques phrases qui incluent le nom des joueurs ne se traduisant pas correctement. (2-3 phrases restantes)
+
 
 ## 📥 Installation :
 ### 🔹 Méthode manuelle :
@@ -23,12 +27,6 @@ Utilise un gestionnaire de mods pour l'installer facilement :
 - r2modman: https://thunderstore.io/package/ebkr/r2modman/
 
 ## ✅ Compatible avec certains mods :
-🔹MoreUpgrades (1.4.8+) par BULLETBOT (https://thunderstore.io/c/repo/p/BULLETBOT/MoreUpgrades/)
-
-⚠️ Important : Pour que la traduction du mod MoreUpgrades fonctionne à 100 %, vérifiez que le fichier "bulletbot.moreupgrades.cfg" situé dans REPO/BepInEx/config, contient la ligne "Display Total Value = false". (situé à la ligne 312)
-
-Si la valeur est à "true", modifiez la en "false" et enregistrez le fichier, afin d'assurer le bon fonctionnement du mod.
-
 🔹CustomColors (1.1.0+) par x753_REPO (https://thunderstore.io/c/repo/p/x753_REPO/CustomColors/)
 
 🔹LevelNumberUI (1.0.0+) par ironbean (https://thunderstore.io/c/repo/p/ironbean/LevelNumberUI/)

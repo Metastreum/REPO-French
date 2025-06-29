@@ -1,5 +1,24 @@
 </details>
 
+**<details><summary>v1.2.2</summary>**
+
+* Continuité de la mise à jour pour R.E.P.O v0.2.0 (99,9% des mots et phrases du jeu ont été à nouveau traduits !)
+* Annulation et suppression de compatibilité de mod, car trop de bug... (MoreUpgrades)
+
+</details>
+
+
+</details>
+
+**<details><summary>v1.2.1</summary>**
+
+* Mise à jour pour R.E.P.O v0.2.0 (Le reste des traductions manquantes arrivera un peu plus tard, merci de votre patience.)
+
+</details>
+
+
+</details>
+
 **<details><summary>v1.2.0</summary>**
 
 * Ajout de mod (pré-configuré en français) qui permet de modifier le Texte-à-parole automatique lorsqu'un joueur porte la potion d'amour (LovePotion PhraseCustomizer de ArkanoidVFX)
