@@ -1,5 +1,7 @@
-# REPO French 1.2.2
+# REPO French 1.2.3
 Un mod de R.E.P.O. qui traduit le jeu en français. (99,9% des mots et phrases du jeu ont été traduits !)
+
+Lien vers le GitHub : (https://github.com/Metastreum/REPO-French)
 
 ## 📜 Description :
 Basé sur le mod de [ jeremypnl7 ] qui a traduit R.E.P.O en espagnol. (https://thunderstore.io/c/repo/p/jeremypnl7/SukunaREPO_ESP/)
@@ -7,7 +9,6 @@ Basé sur le mod de [ jeremypnl7 ] qui a traduit R.E.P.O en espagnol. (https://t
 Ce qui reste à traduire : (En stand-by, ça peut attendre, c'est pas hyper important.)
 
 - Le Texte-à-parole automatique qui se déclenche lorsque un joueur est abandonné par ses coéquipiers. (Partiellement complétée)
-- Quelques phrases qui incluent le nom des joueurs ne se traduisant pas correctement. (2-3 phrases restantes)
 
 
 ## 📥 Installation :

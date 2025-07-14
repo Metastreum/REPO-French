@@ -1,5 +1,15 @@
 </details>
 
+**<details><summary>v1.2.3</summary>**
+
+* Mise à jour pour R.E.P.O v0.2.1
+* Corrections et ajustements de traduction
+
+</details>
+
+
+</details>
+
 **<details><summary>v1.2.2</summary>**
 
 * Continuité de la mise à jour pour R.E.P.O v0.2.0 (99,9% des mots et phrases du jeu ont été à nouveau traduits !)
