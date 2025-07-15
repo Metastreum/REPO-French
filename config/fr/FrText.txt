@@ -326,6 +326,7 @@ W=Z
 A=Q
 S=S
 D=D
+Z=W
 WASD=ZQSD
 ZQSD=ZQSD
 SPACE=ESPACE
@@ -499,28 +500,9 @@ Duct Taped Grenades <color=#FFFFFF>[<u><b>E</b></u>]</color>= Grenades avec ruba
 Zero Gravity Orb=Orbe de gravité zéro
 DESTROYING SLACKERS=COMPTE À REBOURS...
 Duct Taped Grenades=Grenades avec ruban adhésif
-peace=À
-OUT=PLUS
 
-Abandon (liste en cours, pas encore traduit)
-I thought we were in this together=Je pensais qu'on était là-dedans ensemble.
-Why didn't they wait?=Pourquoi n'ont-ils pas attendu ?
-Now, You forgot my trust.=Maintenant, tu as perdu ma confiance.
-In the end, My companions ditched me.=Au final, mes companions m'ont rejeté...
-I should have known. Everyone forgot my feelings.=J'aurais dû savoir. Tout le monde a oublié mes sentiments.
-
-Autodestruction (liste en cours, pas encore traduit)
-i see the light=Je vois la lumière.
-catch=À
-you=la
-later=prochaine.
-later.=prochaine.
+(Séquence d'autodestruction)
 i=Je
-see=part
-light=Paradis
-
-(séquence d'autodestruction)
-I=Je
 need=dois
 to=retourner,
 get=absolument
