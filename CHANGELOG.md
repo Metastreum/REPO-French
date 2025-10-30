@@ -1,5 +1,15 @@
 </details>
 
+**<details><summary>v1.2.5</summary>**
+
+* Mise à jour pour R.E.P.O v0.3.0
+* Corrections et ajustements de traduction
+
+</details>
+
+
+</details>
+
 **<details><summary>v1.2.4</summary>**
 
 * Correction mineure de bug
