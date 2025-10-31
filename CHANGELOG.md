@@ -1,5 +1,14 @@
 </details>
 
+**<details><summary>v1.2.7</summary>**
+
+* Une phrase dans le menu principal n'était pas traduite (oops !)
+
+</details>
+
+
+</details>
+
 **<details><summary>v1.2.6</summary>**
 
 * Corrections et ajustements de traduction
