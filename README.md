@@ -1,5 +1,7 @@
-# REPO French 1.2.7
+# REPO French 1.2.8
 Un mod de R.E.P.O. qui traduit le jeu en français. (99,9% des mots et phrases du jeu ont été traduits !)
+
+Lien vers le GitHub : (https://github.com/Metastreum/REPO-French)
 
 ## 📜 Description :
 Basé sur le mod de [ jeremypnl7 ] qui a traduit R.E.P.O en espagnol. (https://thunderstore.io/c/repo/p/jeremypnl7/SukunaREPO_ESP/)

@@ -1,5 +1,15 @@
 </details>
 
+**<details><summary>v1.2.8</summary>**
+
+* Quelques corrections grammaticales
+* Complétion des traductions manquantes
+
+</details>
+
+
+</details>
+
 **<details><summary>v1.2.7</summary>**
 
 * Une phrase dans le menu principal n'était pas traduite (oops !)
