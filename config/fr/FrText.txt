@@ -340,6 +340,7 @@ LOCKED=BLOQUÉ
 TAX$$TAX$=TAXE$TAXE
 TAXTAX$$$=TAXETAXE$
 Off=Désactivé
+On=Activé
 Item Unequip Auto Hold=Déséquipement Automatique
 Rich Presence=Activité Discord
 Full=Complet
@@ -351,11 +352,11 @@ disposal arena=ARÈNE DE DESTRUCTION
 SCOUT=ÉCLAIREUR
 Scout=ÉCLAIREUR
 scout=ÉCLAIREUR
-HOLD TO REROLL (<b>-$5K</b>)=MAINTENIR POUR RELANCER (<b>-$5K</b>)
-HOLD TO REROLL (<b>-$10K</b>)=MAINTENIR POUR RELANCER (<b>-$10K</b>)
-HOLD TO REROLL (<b>-$15K</b>)=MAINTENIR POUR RELANCER (<b>-$15K</b>)
-HOLD TO REROLL (<b>-$20K</b>)=MAINTENIR POUR RELANCER (<b>-$20K</b>)
-HOLD TO REROLL (<b>-$25K</b>)=MAINTENIR POUR RELANCER (<b>-$25K</b>)
+Hold to Reroll (<b>-5k</b>)=MAINTENIR POUR RELANCER (<b>-5k</b>)
+Hold to Reroll (<b>-10k</b>)=MAINTENIR POUR RELANCER (<b>-10k</b>)
+Hold to Reroll (<b>-15k</b>)=MAINTENIR POUR RELANCER (<b>-15k</b>)
+Hold to Reroll (<b>-20k</b>)=MAINTENIR POUR RELANCER (<b>-20k</b>)
+Hold to Reroll (<b>-25k</b>)=MAINTENIR POUR RELANCER (<b>-25k</b>)
 Only one <b><u>Extraction Point</b></u> can be active at a time, find the current one using your map!=Un seul <b><u>Point D'extraction</u></b> peut être actif à la fois, trouvez l'actuel en utilisant la carte !
 Use <u><b>WASD</b></u> to move.=Utilise <u><b>ZQSD</b></u> pour te déplacer.
 Use <u><b>WASD</b></u> on your keyboard until the progress bar is filled!=Utilise <u><b>ZQSD</b></u> sur ton clavier jusqu'à ce que la barre de progression soit remplie !
@@ -630,7 +631,8 @@ Loom=Le Tisseur
 Extra Jump Upgrade=Saut supplémentaire
 Tranq Gun=Pistolet tranquillisant
 Tranq Gun <color=#FFFFFF>[<u><b>E</b></u>]</color>=Pistolet tranquillisant <color=#FFFFFF>[<u><b>E</b></u>]</color>
-Void Staff=Bâton du Vide
+Void Staff=Sceptre du Vide
+Void Staff <color=#FFFFFF>[<u><b>E</b></u>]</color>=Sceptre du Vide <color=#FFFFFF>[<u><b>E</b></u>]</color>
 Shotgun <color=#FFFFFF>[<u><b>E</b></u>]</color>=Fusil à pompe <color=#FFFFFF>[<u><b>E</b></u>]</color>
 Gun=Pistolet
 Gun <color=#FFFFFF>[<u><b>E</b></u>]</color>=Pistolet <color=#FFFFFF>[<u><b>E</b></u>]</color>
@@ -4803,13 +4805,9 @@ BATTERIE TÊTE DE MORT SAUTS SUPPLÉMENTAIRES SANTÉ CARTE NOMBRE DE JOUEUR PORT
 
 REPOS ACCROUPI BATTERIE TÊTE DE MORT SAUTS SUPPLÉMENTAIRES SANTÉ CARTE NOMBRE DE JOUEUR PORTÉE VITESSE ENDURANCE FORCE CHUTE ESCALADE CHUTE PROPULSION Tumble Wings=REPOS ACCROUPI<br>BATTERIE TÊTE DE MORT<br>SAUTS SUPPLÉMENTAIRES<br>SANTÉ<br>CARTE NOMBRE DE JOUEUR<br>PORTÉE<br>VITESSE<br>ENDURANCE<br>FORCE<br>CHUTE ESCALADE<br>CHUTE PROPULSION<br>CHUTE PLANÉE
 
-v0.4.1 [MODDED]=v0.4.1 [MODÉ]
+v0.4.2.1 [MODDED]=v0.4.2.1 [MODÉ]
 Private Game=PARTIE PRIVÉE
 Public Game=PARTIE PUBLIQUE
-<b>PUBLIC GAME</b>=<b>PARTIE PUBLIQUE</b>
-<b>Public Game</b>=<b>PARTIE PUBLIQUE</b>
-<b>Public game</b>=<b>PARTIE PUBLIQUE</b>
-<b>public game</b>=<b>PARTIE PUBLIQUE</b>
 join friend=REJOINDRE UN AMI
 Arachnophobia=Arachnophobie
 Cosmetics=Cosmétiques
@@ -4868,6 +4866,8 @@ PASSWORD=Mot de passe
 Password=Mot de passe
 password=Mot de passe
 SKIP=Suivant
+Skip=Suivant
+skip=Suivant
 KICK PLAYER=Kick un joueur
 Do you really want to kick [player]=Veux-tu vraiment kick [player] ? (ne marche pas)
 Do you really want to kick [player]=Veux-tu vraiment kick [player] ?
@@ -4929,14 +4929,25 @@ Pulse Pistol=Pistolet à impulsions
 Pulse Pistol <color=#FFFFFF>[<u><b>E</b></u>]</color>=Pistolet à impulsions <color=#FFFFFF>[<u><b>E</b></u>]</color>
 Photon Blaster=Canon à photons
 Photon Blaster <color=#FFFFFF>[<u><b>E</b></u>]</color>=Canon à photons <color=#FFFFFF>[<u><b>E</b></u>]</color>
-Prodzap=Prodzap
-Prodzap <color=#FFFFFF>[<u><b>E</b></u>]</color>=Prodzap <color=#FFFFFF>[<u><b>E</b></u>]</color>
-Boltzap=Boltzap
-Boltzap <color=#FFFFFF>[<u><b>E</b></u>]</color>=Boltzap <color=#FFFFFF>[<u><b>E</b></u>]</color>
-C.A.R.T. Cannon=Canon C.H.A.R.I.O.T.
-C.A.R.T. Cannon <color=#FFFFFF>[<u><b>E</b></u>]</color>=Canon C.H.A.R.I.O.T. <color=#FFFFFF>[<u><b>E</b></u>]</color>
+Prodzap=Taser électrique
+Prodzap <color=#FFFFFF>[<u><b>E</b></u>]</color>=Taser électrique <color=#FFFFFF>[<u><b>E</b></u>]</color>
+C.A.R.T. Cannon=Canon pour C.H.A.R.I.O.T.
+C.A.R.T. Cannon <color=#FFFFFF>[<u><b>E</b></u>]</color>=Canon pour C.H.A.R.I.O.T. <color=#FFFFFF>[<u><b>E</b></u>]</color>
+C.A.R.T. Laser=Laser pour C.H.A.R.I.O.T.
+C.A.R.T. Laser <color=#FFFFFF>[<u><b>E</b></u>]</color>=Laser pour C.H.A.R.I.O.T. <color=#FFFFFF>[<u><b>E</b></u>]</color>
 Phase Bridge=Pont de phase
 Phase Bridge <color=#FFFFFF>[<u><b>E</b></u>]</color>=Pont de phase <color=#FFFFFF>[<u><b>E</b></u>]</color>
+Boltzap=Arbalaser
+Boltzap <color=#FFFFFF>[<u><b>E</b></u>]</color>=Arbalaser <color=#FFFFFF>[<u><b>E</b></u>]</color>
+Zero Gravity Staff=Sceptre antigravité
+Zero Gravity Staff <color=#FFFFFF>[<u><b>E</b></u>]</color>=Sceptre antigravité <color=#FFFFFF>[<u><b>E</b></u>]</color>
+Roll Staff=Sceptre de roulade
+Roll Staff <color=#FFFFFF>[<u><b>E</b></u>]</color>=Sceptre de roulade <color=#FFFFFF>[<u><b>E</b></u>]</color>
+Defibro=Défibrillateur
+Defibro <color=#FFFFFF>[<u><b>E</b></u>]</color>=Défibrillateur <color=#FFFFFF>[<u><b>E</b></u>]</color>
+Semibot Walkies=Talkie Semibot
+Semibot Walkies <color=#FFFFFF>[<u><b>E</b></u>]</color>=Talkie Semibot <color=#FFFFFF>[<u><b>E</b></u>]</color>
+Duck Bucket=Seau anti-canards
 
 Presets=Préréglages
 
