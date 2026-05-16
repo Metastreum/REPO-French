@@ -122,9 +122,9 @@ OFF=NON
 NONE=AUCUN
 Window Mode=Mode fenêtré
 Windowed=Fenêtré
-Vsync=V-sync
-VSync=V-sync
-VSYNC=V-sync
+Vsync=Synchro verticale
+VSync=Synchro verticale
+VSYNC=Synchro verticale
 Gamma=Gamma
 inventory 3=Inventaire 3
 inventory 2=Inventaire 2
@@ -285,6 +285,7 @@ COMPLETED=TERMINÉ
 <sprite name=truck><sprite name=arrowright><sprite name=road>=<sprite name=camion><sprite name=flèche droite><sprite name=route>
 <sprite name=truck><sprite name=arrowright><sprite name=road><sprite name=?>=<sprite name=truck><sprite name=arrowright><sprite name=road><sprite name=?>
 STARTING ENGINE=DÉMARRAGE DU MOTEUR
+Starting Engine=DÉMARRAGE DU MOTEUR
 SHOP=BOUTIQUE
 Shop=BOUTIQUE
 shop=BOUTIQUE
@@ -687,6 +688,7 @@ SEQUENCE=DESTRUCTION
 CANCELLED!=ANNULÉE !
 
 SERVER LIST=LISTE DES SERVEURS
+Server List=LISTE DES SERVEURS
 Connect to the friend=Se connecter à un ami
 REFRESH LOBBIES=RAFRAÎCHIR LA LISTE
 Join Friend=REJOINDRE UN LOBBY
@@ -4805,7 +4807,7 @@ BATTERIE TÊTE DE MORT SAUTS SUPPLÉMENTAIRES SANTÉ CARTE NOMBRE DE JOUEUR PORT
 
 REPOS ACCROUPI BATTERIE TÊTE DE MORT SAUTS SUPPLÉMENTAIRES SANTÉ CARTE NOMBRE DE JOUEUR PORTÉE VITESSE ENDURANCE FORCE CHUTE ESCALADE CHUTE PROPULSION Tumble Wings=REPOS ACCROUPI<br>BATTERIE TÊTE DE MORT<br>SAUTS SUPPLÉMENTAIRES<br>SANTÉ<br>CARTE NOMBRE DE JOUEUR<br>PORTÉE<br>VITESSE<br>ENDURANCE<br>FORCE<br>CHUTE ESCALADE<br>CHUTE PROPULSION<br>CHUTE PLANÉE
 
-v0.4.2.1 [MODDED]=v0.4.2.1 [MODÉ]
+v0.4.3.2 [MODDED]=v0.4.3.2 [MODÉ]
 Private Game=PARTIE PRIVÉE
 Public Game=PARTIE PUBLIQUE
 join friend=REJOINDRE UN AMI
@@ -4853,9 +4855,13 @@ Japan=Japon
 Asia=Asie
 Australia=Australie
 RANDOM MATCHMAKING=Match aléatoire
+Random Matchmaking=Match aléatoire
 SEARCH=Chercher...
+Search=Chercher...
 CREATE NEW=Créer un serveur
+Create New=Créer un serveur
 CREATE NEW SERVER=Nom du serveur
+Create New Server=Nom du serveur
 NEW=NOUVEAU
 New=NOUVEAU
 new=NOUVEAU

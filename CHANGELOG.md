@@ -1,5 +1,25 @@
 </details>
 
+**<details><summary>v1.3.3</summary>**
+
+* Complétion des traductions manquantes
+
+</details>
+
+
+
+</details>
+
+**<details><summary>v1.3.2</summary>**
+
+* Mise à jour pour R.E.P.O v0.4.3.2
+* Complétion des traductions manquantes
+
+</details>
+
+
+</details>
+
 **<details><summary>v1.3.1</summary>**
 
 * Mise à jour pour R.E.P.O v0.4.2.1
