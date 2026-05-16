@@ -1,11 +1,19 @@
 </details>
 
-**<details><summary>v1.3.3</summary>**
+**<details><summary>v1.3.4</summary>**
 
 * Complétion des traductions manquantes
 
 </details>
 
+
+</details>
+
+**<details><summary>v1.3.3</summary>**
+
+* Complétion des traductions manquantes
+
+</details>
 
 
 </details>

@@ -470,6 +470,9 @@ Indestructible Drone <color=#FFFFFF>[<u><b>E</b></u>]</color>=Drone indestructib
 Stun Grenade <color=#FFFFFF>[<u><b>E</b></u>]</color>=Grenade paralysante <color=#FFFFFF>[<u><b>E</b></u>]</color>
 <sprite name=truck><sprite name=arrowright><sprite name=road><sprite name=!>=<sprite name=truck><sprite name=arrowright><sprite name=road><sprite name=!>
 HITTING THE ROAD=EN ROUTE !
+Hitting The Road=EN ROUTE !
+Hitting the Road=EN ROUTE !
+Hitting the road=EN ROUTE !
 Roll Drone=Drone roulade
 Roll Drone <color=#FFFFFF>[<u><b>E</b></u>]</color>=Drone roulade <color=#FFFFFF>[<u><b>E</b></u>]</color>
 Valuable Tracker=Détecteur d'objets de valeur
@@ -482,12 +485,19 @@ Zero Gravity Drone=Drone à gravité zéro
 Zero Gravity Drone <color=#FFFFFF>[<u><b>E</b></u>]</color>=Drone à gravité zéro <color=#FFFFFF>[<u><b>E</b></u>]</color>
 Sword=Épée
 W=Z
+w=z
 A=Q
+a=q
 S=S
+s=s
 D=D
+d=d
 Z=W
+z=w
 WASD=ZQSD
+wasd=zqsd
 ZQSD=ZQSD
+zqsd=zqsd
 SPACE=ESPACE
 CONTROL=CTRL
 LEFT SHIFT=MAJ GAUCHE
