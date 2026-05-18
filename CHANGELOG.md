@@ -1,5 +1,14 @@
 </details>
 
+**<details><summary>v1.3.5</summary>**
+
+* Complétion des traductions manquantes
+
+</details>
+
+
+</details>
+
 **<details><summary>v1.3.4</summary>**
 
 * Complétion des traductions manquantes
