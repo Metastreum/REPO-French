@@ -1,5 +1,15 @@
 </details>
 
+**<details><summary>v1.3.6</summary>**
+
+* Mise à jour pour R.E.P.O v0.4.4.3
+* Annulation et suppression de certaines compatibilités de mods, car non maintenues à jour et devenues inutiles (CustomColors, LevelNumberUI)
+
+</details>
+
+
+</details>
+
 **<details><summary>v1.3.5</summary>**
 
 * Complétion des traductions manquantes

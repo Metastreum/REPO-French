@@ -1,9 +1,85 @@
+[Menu du jeu]
+
+v0.4.4.3 [MODDED]=v0.4.4.3 [MODÉ]
+
+Private Game=PARTIE PRIVÉE
+Public Game=PARTIE PUBLIQUE
+join friend=REJOINDRE UN AMI
+Join Friend=REJOINDRE UN LOBBY
+join game=Rejoindre un lobby
+
+Singleplayer=Jouer en solo
+SINGLEPLAYER=Jouer en solo
+singleplayer=Jouer en solo
+Singleplayer Mode=Mode Solo
+SINGLEPLAYER MODE=Mode Solo
+singleplayer mode=Mode Solo
+Tutorial=Faire le Tutoriel
+
+Customize=PERSONNALISER
 Settings=Paramètres
+Quit Game=Quitter le jeu
+Quit game=Quitter le jeu
+
+
+[Partie privée]
+
+host game=Créer un lobby
+Host a Game=Créer un lobby
+host a game=Créer un lobby
+HOST A GAME=Créer un lobby
+
+The friend with the best computer\nshould host.\n\nAre you this friend?=L'ami avec le meilleur PC et connexion internet devrait être l'hôte de la partie.\n\nTu es cet ami ?
+Haha yes!  :)=HAHA OUI ! :)
+Not me...  :'(=PAS MOI... :'(
+
+REGIONS=Régions
+Regions=Régions
+Pick Best Region=Choix auto
+USA East=États-Unis Est
+USA West=États-Unis Ouest
+South Africa=Afrique du Sud
+South America=Amérique du Sud
+Japan=Japon
+Asia=Asie
+Australia=Australie
+Back=Retour
+
+
+[Mode multijoueur - Menu]
+
+Multiplayer mode=Mode multijoueur
+Multiplayer Mode=Mode multijoueur
+Menu=Menu
+< GO BACK=< RETOUR
+< Go Back=< RETOUR
+NEW GAME=NOUVELLE PARTIE
+New Game=NOUVELLE PARTIE
+Here's all the fun you've had and the opportunity to pick up right where you left off.=Voici toutes vos parties précédentes. Vous avez la possibilité de reprendre là où vous vous êtes arrêté.
+Do you want to start a game?=Veux-tu commencer une nouvelle partie ?
+Yes!=OUI !
+NO=NON
+No=NON
+PASSWORD=Mot de passe
+Password=Mot de passe
+password=Mot de passe
+SKIP=Suivant
+Skip=Suivant
+skip=Suivant
+LOADING=CHARGEMENT
+Loading=CHARGEMENT
+loading=CHARGEMENT
+
+
+[Lobby]
+
+
+
 Gameplay=Gameplay
 Graphics=Vidéo
 Audio=Audio
 Controls=Contrôles
-Back=Retour
+
 controls=contrôles
 Color [RED]=Couleur [Rouge]
 Color [GREEN]=Couleur [Vert]
@@ -155,42 +231,24 @@ Camera Noise=Bruit de la caméra
 Camera Animation=Animation de la caméra
 pop up=notifications
 YES=OUI
-NO=NON
-No=NON
-Yes!=OUI !
+
+
 No wait!=Non attends !
 Yes! :')=Oui ! :')
 No...=Non...
 Are you sure? Are you sure? Are you sure?=Êtes-vous sûr ? Êtes-vous sûr ? Êtes-vous sûr ?
-LOADING=CHARGEMENT
-Loading=CHARGEMENT
-loading=CHARGEMENT
+
 (Click to Rename)=(Cliquer pour renommer)
-< GO BACK=< RETOUR
-< Go Back=< RETOUR
+
 SAVED GAMES=MENU
 Saved Games=MENU
-Singleplayer=Jouer en solo
-SINGLEPLAYER=Jouer en solo
-singleplayer=Jouer en solo
-Singleplayer Mode=Mode Solo
-SINGLEPLAYER MODE=Mode Solo
-singleplayer mode=Mode Solo
+
 Mods=Menu des mods
-NEW GAME=NOUVELLE PARTIE
-New Game=NOUVELLE PARTIE
+
 Saved games=Fichiers de sauvegarde
-Here's all the fun you've had and the opportunity to pick up right where you left off.=Voici toutes vos parties précédentes. Vous avez la possibilité de reprendre là où vous vous êtes arrêté.
 Team semiooeeeeeeeeeets</b>=Équipe semiooeeeeeeeeeets</b>
 BUILD NAME=NOM DE VERSION
-host game=Créer un lobby
-Tutorial=Faire le Tutoriel
-join game=Rejoindre un lobby
-Quit game=Quitter le jeu
-Host a Game=Créer un lobby
-host a game=Créer un lobby
-HOST A GAME=Créer un lobby
-The friend with the best computer\nshould host.\n\nAre you this friend?=L'ami avec le meilleur PC et connexion internet devrait être l'hôte de la partie.\n\nTu es cet ami ?
+
 Default=Par défaut
 TOGGLE=basculer
 Toggle=basculer
@@ -208,14 +266,13 @@ Fullscreen=Plein écran
 Unlimited=Illimité
 Very High=Très élevé
 Low=Bas
-Quit Game=Quitter le jeu
+
 Close the entire application?=Tu es sûr ?
 Start a new game?=Commencer une partie ?
-Do you want to start a game?=Veux-tu commencer une nouvelle partie ?
 KING OF THE LOSERS!=ROI DES PERDANTS !
 King of the Losers!=ROI DES PERDANTS !
 King of the losers!=ROI DES PERDANTS !
-<sprite name=:)>=<sprite name=:)>
+<sprite name=:)>
 CHAT:=CHAT :
 EXTRACTION POINT ACTIVATED=POINT D'EXTRACTION ACTIVÉ
 Extraction Point Activated=POINT D'EXTRACTION ACTIVÉ
@@ -242,10 +299,10 @@ McJannek Station=STATION MCJANNEK
 Mcjannek Station=STATION MCJANNEK
 Mcjannek station=STATION MCJANNEK
 mcjannek station=STATION MCJANNEK
-<sprite name=message_arrow>=<sprite name=message_arrow>
-<sprite name=message>=<sprite name=message>
+<sprite name=message_arrow>
+<sprite name=message>
 Change color=Changer de couleur
-Menu=Menu
+
 Continue=Reprendre
 Self Destruct=S'autodétruire
 Main Menu=Menu principal
@@ -260,7 +317,7 @@ SELECT COLOR=sélectionner une couleur
 Select Color=sélectionner une couleur
 Select color=sélectionner une couleur
 Confirm=Confirmer
-<sprite name=!>=<sprite name=!>
+<sprite name=!>
 <b>FOCUS > </b>Fill the extraction point with valuables=<b>OBJECTIF > </b>Remplir le point d'extraction avec des objets de valeur.
 ACTIVE=ACTIF
 Active=ACTIF
@@ -278,13 +335,13 @@ EXTRACTION POINT COMPLETED=POINT D'EXTRACTION TERMINÉ
 Extraction Point Completed=POINT D'EXTRACTION TERMINÉ
 Extraction point completed=POINT D'EXTRACTION TERMINÉ
 extraction point completed=POINT D'EXTRACTION TERMINÉ
-<sprite name=check>=<sprite name=check>
+<sprite name=check>
 <b>FOCUS > </b>Get back to the truck!=<b>OBJECTIF > </b>Retourner au camion !
 COMPLETED=TERMINÉ
-<sprite name=truck>=<sprite name=camion>
-<sprite name=truck><sprite name=arrowright>=<sprite name=camion><sprite name=flèche droite>
-<sprite name=truck><sprite name=arrowright><sprite name=road>=<sprite name=camion><sprite name=flèche droite><sprite name=route>
-<sprite name=truck><sprite name=arrowright><sprite name=road><sprite name=?>=<sprite name=truck><sprite name=arrowright><sprite name=road><sprite name=?>
+<sprite name=truck>
+<sprite name=truck><sprite name=arrowright>
+<sprite name=truck><sprite name=arrowright><sprite name=road>
+<sprite name=truck><sprite name=arrowright><sprite name=road><sprite name=?>
 STARTING ENGINE=DÉMARRAGE DU MOTEUR
 Starting Engine=DÉMARRAGE DU MOTEUR
 Starting engine=DÉMARRAGE DU MOTEUR
@@ -323,8 +380,7 @@ Use <u><b>CONTROL</b></u> to sneak under stuff and hide.=Appuie ou maintiens <u>
 <b>FOCUS > </b>Enjoy the ride, recharge stuff and GEAR UP!=<b>OBJECTIF > </b>Profiter du voyage, recharger des objets et se PRÉPARER !
 Exit to main menu?=Retourner au menu principal ?
 R.E.P.O.=R.E.P.O.
-Multiplayer mode=Mode multijoueur
-Multiplayer Mode=Mode multijoueur
+
 High=Élevé
 Photosensitivity=Photosensibilité
 Medium=Moyen
@@ -475,7 +531,7 @@ Recharge Drone <color=#FFFFFF>[<u><b>E</b></u>]</color>=Drone de recharge <color
 Shockwave Grenade <color=#FFFFFF>[<u><b>E</b></u>]</color>=Grenade à onde de choc <color=#FFFFFF>[<u><b>E</b></u>]</color>
 Indestructible Drone <color=#FFFFFF>[<u><b>E</b></u>]</color>=Drone indestructible <color=#FFFFFF>[<u><b>E</b></u>]</color>
 Stun Grenade <color=#FFFFFF>[<u><b>E</b></u>]</color>=Grenade paralysante <color=#FFFFFF>[<u><b>E</b></u>]</color>
-<sprite name=truck><sprite name=arrowright><sprite name=road><sprite name=!>=<sprite name=truck><sprite name=arrowright><sprite name=road><sprite name=!>
+<sprite name=truck><sprite name=arrowright><sprite name=road><sprite name=!>
 HITTING THE ROAD=EN ROUTE !
 Hitting The Road=EN ROUTE !
 Hitting the Road=EN ROUTE !
@@ -717,8 +773,8 @@ SERVER LIST=LISTE DES SERVEURS
 Server List=LISTE DES SERVEURS
 Connect to the friend=Se connecter à un ami
 REFRESH LOBBIES=RAFRAÎCHIR LA LISTE
-Join Friend=REJOINDRE UN LOBBY
-Customize=PERSONNALISER
+
+
 Save Changes=Enregistrer
 Unsaved Changes=Modifications non enregistrées
 You have unsaved changes, are you sure you want to exit?=Vous avez des modifications non enregistrées, êtes-vous sûr de vouloir quitter ?
@@ -4833,14 +4889,11 @@ BATTERIE TÊTE DE MORT SAUTS SUPPLÉMENTAIRES SANTÉ CARTE NOMBRE DE JOUEUR PORT
 
 REPOS ACCROUPI BATTERIE TÊTE DE MORT SAUTS SUPPLÉMENTAIRES SANTÉ CARTE NOMBRE DE JOUEUR PORTÉE VITESSE ENDURANCE FORCE CHUTE ESCALADE CHUTE PROPULSION Tumble Wings=REPOS ACCROUPI<br>BATTERIE TÊTE DE MORT<br>SAUTS SUPPLÉMENTAIRES<br>SANTÉ<br>CARTE NOMBRE DE JOUEUR<br>PORTÉE<br>VITESSE<br>ENDURANCE<br>FORCE<br>CHUTE ESCALADE<br>CHUTE PROPULSION<br>CHUTE PLANÉE
 
-v0.4.3.2 [MODDED]=v0.4.3.2 [MODÉ]
-Private Game=PARTIE PRIVÉE
-Public Game=PARTIE PUBLIQUE
-join friend=REJOINDRE UN AMI
+
+
 Arachnophobia=Arachnophobie
 Cosmetics=Cosmétiques
-Haha yes!  :)=HAHA OUI ! :)
-Not me...  :'(=PAS MOI... :'(
+
 WARNING=AVERTISSEMENT
 Warning=AVERTISSEMENT
 While playing with random players you may come across cheaters or really mean people...=En jouant avec des joueurs aléatoires, tu pourrais tomber sur des tricheurs ou des personnes très méchantes...
@@ -4870,16 +4923,8 @@ REPOLib: Waiting for 8 bundle to load...=<br><br><br><br><br><br><br><br><br><br
 REPOLib: Waiting for 9 bundle to load...=<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>REPOLib : En attente du chargement de 9 modules...
 REPOLib: Waiting for 10 bundle to load...=<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>REPOLib : En attente du chargement de 10 modules...
 It's over for me=Oui...
-REGIONS=Régions
-Regions=Régions
-Pick Best Region=Choix auto
-USA East=États-Unis Est
-USA West=États-Unis Ouest
-South Africa=Afrique du Sud
-South America=Amérique du Sud
-Japan=Japon
-Asia=Asie
-Australia=Australie
+
+
 RANDOM MATCHMAKING=Match aléatoire
 Random Matchmaking=Match aléatoire
 SEARCH=Chercher...
@@ -4894,12 +4939,8 @@ new=NOUVEAU
 Yep!=Oui !
 Nope!=Non...
 Join server=Rejoindre un serveur
-PASSWORD=Mot de passe
-Password=Mot de passe
-password=Mot de passe
-SKIP=Suivant
-Skip=Suivant
-skip=Suivant
+
+
 KICK PLAYER=Kick un joueur
 Do you really want to kick [player]=Veux-tu vraiment kick [player] ? (ne marche pas)
 Do you really want to kick =Veux-tu vraiment kick [player] ?
