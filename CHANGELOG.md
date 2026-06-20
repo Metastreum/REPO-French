@@ -1,5 +1,14 @@
 </details>
 
+**<details><summary>v1.3.7</summary>**
+
+* Complétion des traductions manquantes
+
+</details>
+
+
+</details>
+
 **<details><summary>v1.3.6</summary>**
 
 * Mise à jour pour R.E.P.O v0.4.4.3
